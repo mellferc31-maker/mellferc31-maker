@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mell%20Ceron%20Alatrista&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20de%20Sistemas%20y%20Computación&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mell%20Ceron%20Alatrista&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20de%20Sistemas%20e%20Informática&descAlignY=55&descAlign=50" width="100%"/>
 <p><b>Desarrollo Web & Mobile · Bases de Datos & Backend · Redes y Sistemas</b></p>
 <p>🌍 Actualmente postulando a un programa de intercambio académico internacional</p>
 <a href="https://github.com/mellferc31-maker"><img src="https://img.shields.io/badge/GitHub-mellferc31--maker-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
