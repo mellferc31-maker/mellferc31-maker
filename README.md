@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 ¡Hola, soy Mell!
 
-<!--
-**mellferc31-maker/mellferc31-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería de sistemas, redes y desarrollo de software, apasionada por la creación de soluciones tecnológicas funcionales.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend y Móvil:** HTML, CSS, JavaScript, TypeScript, React Native, Bootstrap, Tailwind CSS, Vite
+- **Backend y Bases de Datos:** Java, Oracle Database, MySQL, PostgreSQL, MongoDB
+- **Herramientas de Trabajo:** Git, VS Code, Cisco Packet Tracer, Figma
+
+### 🐧 Sistemas y Redes
+
+- **Sistemas Operativos:** Linux (Administración de procesos, permisos, montaje de particiones y monitoreo de memoria).
+- **Redes y Conectividad:** Cisco (Routers, switches, subredes IPv4/IPv6, simulación de redes).
+
+### 🌱 Enfoque Actual
+Actualmente sigo ampliando mis conocimientos en redes de comunicaciones, administración de sistemas Linux y desarrollo de aplicaciones móviles.
+
+---
+📫 ¡Gracias por visitar mi perfil! Revisa mis repositorios fijados aquí abajo para ver mis proyectos.
