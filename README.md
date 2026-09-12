@@ -1,40 +1,50 @@
-### 👋 ¡Hola, soy Mell!
+## Selected work
 
-Soy estudiante de ingeniería de sistemas, redes y desarrollo de software, apasionada por la creación de soluciones tecnológicas funcionales y aplicaciones móviles.
+<div align="center">
 
-### 💻 Tecnologías y Herramientas
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mellferc31-maker&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F281411559%3Fu%3D37740802ef08541c0c9a36d34961d79a94552399%26v%3D4" alt="mellferc31-maker hero visual" />
+</p>
 
-- **Frontend y Móvil:** 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<h1>mellferc31-maker</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-- **Backend y Bases de Datos:** 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
 
-- **Herramientas de Trabajo:** 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+## The idea behind the work
 
-### 🐧 Sistemas y Redes
+> Building useful things and learning in public.
 
-- **Sistemas Operativos:** Linux (Administración de procesos, permisos, montaje de particiones y monitoreo de memoria).
-- **Redes y Conectividad:** Cisco (Routers, switches, subredes IPv4/IPv6, simulación de redes).
+- 👥 **4** followers · **0** following
 
-### 🚀 Proyectos Destacados
-- **Cafeteria Frontend:** Interfaz web desarrollada con HTML y estilos modernos para la gestión de cafeterías.
-- **Aplicación Móvil (Próximamente en Play Store):** Desarrollo de una app móvil con React Native y TypeScript orientada a la optimización de recetas y cocina, con backend privado.
+*Small, useful work over vague claims.*
 
-### 🌱 Enfoque Actual
-Actualmente sigo ampliando mis conocimientos en redes de comunicaciones, administración de sistemas Linux y desarrollo de aplicaciones móviles.
+## Case studies
 
----
-📫 ¡Gracias por visitar mi perfil! Revisa mis repositorios públicos fijados aquí abajo.
+<table>
+<tr><td width="32%"><b><a href="https://github.com/mellferc31-maker/cafeteria-frontend">cafeteria-frontend</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/mellferc31-maker/mellferc31-maker">mellferc31-maker</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/mellferc31-maker/mi-primer-proyecto">mi-primer-proyecto</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Details worth noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=mellferc31-maker&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F281411559%3Fu%3D37740802ef08541c0c9a36d34961d79a94552399%26v%3D4" alt="mellferc31-maker highlights visual" />
+</p>
+
+<p><b>mellferc31-maker</b> is shipping 3 public projects with 0 stars of proof.</p>
+
+## Creative toolkit
+
+No public language data yet — building the first project in the open.
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mellferc31-maker&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F281411559%3Fu%3D37740802ef08541c0c9a36d34961d79a94552399%26v%3D4" alt="mellferc31-maker social visual" />
+</p>
+
+<a href="https://github.com/mellferc31-maker">GitHub</a>
+
+<p align="center"><sub>mellferc31-maker · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
