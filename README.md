@@ -36,11 +36,5 @@ Soy estudiante de ingeniería de sistemas, redes y desarrollo de software, apasi
 ### 🌱 Enfoque Actual
 Actualmente sigo ampliando mis conocimientos en redes de comunicaciones, administración de sistemas Linux y desarrollo de aplicaciones móviles.
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mellferc31-maker&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 📫 ¡Gracias por visitar mi perfil! Revisa mis repositorios públicos fijados aquí abajo.
